@@ -2,7 +2,7 @@
 
 A simple and interactive poker game built with React. This project demonstrates modular design, component-based architecture, and seamless gameplay.
 
-![React Poker Game Screenshot](public/image.png)
+![React Poker Game Screenshot](image.png)
 
 ## 📖 Table of Contents
 
